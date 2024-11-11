@@ -12,7 +12,7 @@ PORT *is required for both, server and client.*
 COUNT_OF_PLAYERS *for server, to know how many players he need to wait.*
 
 ### NAME
-NAME *is default = "Slava"*
+NAME *is default = "Vladimir"*
 
 ## Packet types
 **0x01** - Client Connection
